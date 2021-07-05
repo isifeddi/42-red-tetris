@@ -19,5 +19,4 @@ An online multiplayer web app
 
 
 ## Made by
-Ilyas SIFEDDINE
-Noredine HAKKAOUI
+Ilyas SIFEDDINE && Noredine HAKKAOUI
